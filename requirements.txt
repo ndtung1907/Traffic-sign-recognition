@@ -1,0 +1,11 @@
+einops
+matplotlib
+requests  
+torch
+torchvision
+Pillow
+tqdm
+numpy
+scikit-learn
+tensorflow
+pickle
